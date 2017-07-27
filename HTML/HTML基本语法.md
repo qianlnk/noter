@@ -39,3 +39,5 @@
 3. [全局属性](http://www.w3school.com.cn/tags/html_ref_standardattributes.asp)
     
         全局属性是对于任何一个标记都可以使用的属性
+
+[综合](1.html)
